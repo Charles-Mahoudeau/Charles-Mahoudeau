@@ -9,4 +9,4 @@ Charlito33/Charlito33 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Charlito33's GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlito33)](https://github.com/anuraghazra/github-readme-stats)
+[![Charlito33's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlito33&count_private=true&&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
