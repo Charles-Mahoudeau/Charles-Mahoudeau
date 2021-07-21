@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Charlito33
 - 👀 I’m interested in Developpment
 - 🌱 I’m currently learning some languages
+- 🎓 I love Java
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me Charlito33#0001 on Discord
 
