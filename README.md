@@ -5,8 +5,7 @@
 <p align="center">
   Hi, I’m @Charlito33,<br />
   I’m interested in Developpment.<br />
-  I’m currently learning : Unreal,<br />
-  and love Java, Web (Backend) and some other languages !<br />
+  I love Java, Backend and some other languages !<br />
   I’m open for collaborating on some projects
 </p>
 
