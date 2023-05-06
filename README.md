@@ -1,5 +1,9 @@
 <p align="center"><img src="https://discord.c99.nl/widget/theme-3/341565091608657922.png" /></p>
 
+<p align="center">
+  <a href='https://ko-fi.com/V7V0L1W25' target='_blank'><img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
+
 <hr />
 
 <p align="center">
