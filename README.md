@@ -16,11 +16,11 @@
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Charlito33&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Charlito33&theme=tokyonight&layout=compact&hide=AUTO_DETECTED" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charlito33&count_private=true&&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charlito33&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
