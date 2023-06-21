@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlito33&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlito33&layout=compact&exclude_repo=SDL2-CLion-Template" />
 </p>
 
 <hr />
