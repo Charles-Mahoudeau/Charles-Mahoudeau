@@ -13,8 +13,8 @@
 <p align="center">
   Hi, I’m @Charlito33,<br />
   I’m interested in Developpment.<br />
-  I love Java, Backend and some other languages !<br />
-  I’m open for collaborating on some projects
+  I love C / C++, Java, Backend and more languages !<br />
+  I’m open for collaborating on _some_ projects
 </p>
 
 <hr />
