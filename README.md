@@ -12,9 +12,7 @@
 
 <p align="center">
   Hi, I’m @Charlito33,<br />
-  I’m interested in Developpment.<br />
-  I love C / C++, Java, Backend and more languages !<br />
-  I’m open to collaborate on <i>some</i> projects
+  I’m an @Epitech Student.<br />
 </p>
 
 <hr />
