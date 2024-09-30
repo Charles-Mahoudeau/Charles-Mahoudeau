@@ -31,6 +31,6 @@
 
 <hr />
 
-<p align="center">
+<!--<p align="center">
    <img src="https://gpvc.arturio.dev/Charlito33" />
-</p>
+</p>-->
