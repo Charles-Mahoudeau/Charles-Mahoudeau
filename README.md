@@ -4,9 +4,9 @@
   <a href='https://ko-fi.com/V7V0L1W25' target='_blank'><img src='https://ko-fi.com/img/githubbutton_sm.svg' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://wakatime.com/@f53034f9-baf9-430a-94eb-8571e437cd94"><img src="https://wakatime.com/badge/user/f53034f9-baf9-430a-94eb-8571e437cd94.svg" alt="Total time coded since Feb 20 2023" /></a>
-</p>
+</p>-->
 
 <hr />
 
