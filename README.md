@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlito33&layout=compact&theme=tokyonight&exclude_repo=SDL2-CLion-Template" />
 </p>-->
 
-<hr />
+<!--<hr />-->
 
 <!--<p align="center">
    <img src="https://gpvc.arturio.dev/Charlito33" />
