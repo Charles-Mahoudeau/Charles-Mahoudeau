@@ -17,17 +17,17 @@
 
 <hr />
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Charlito33&theme=tokyonight&layout=compact&hide=AUTO_DETECTED" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charlito33&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlito33&layout=compact&theme=tokyonight&exclude_repo=SDL2-CLion-Template" />
-</p>
+</p>-->
 
 <hr />
 
