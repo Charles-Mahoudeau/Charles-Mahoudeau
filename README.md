@@ -11,7 +11,7 @@
 <hr />
 
 <p align="center">
-  Hi, I’m @Charlito33,<br />
+  Hi, I’m @Charles-Mahoudeau (Aka. @Charlito33),<br />
   I’m an @Epitech Student.<br />
 </p>
 
